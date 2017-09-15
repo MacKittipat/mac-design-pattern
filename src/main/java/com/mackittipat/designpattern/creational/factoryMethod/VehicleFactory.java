@@ -1,4 +1,4 @@
-package com.mackittipat.designpattern.factory;
+package com.mackittipat.designpattern.creational.factoryMethod;
 
 public class VehicleFactory {
 

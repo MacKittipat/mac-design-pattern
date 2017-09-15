@@ -1,7 +1,5 @@
-package com.mackittipat.designpattern;
+package com.mackittipat.designpattern.creational.factoryMethod;
 
-import com.mackittipat.designpattern.factory.Vehicle;
-import com.mackittipat.designpattern.factory.VehicleFactory;
 import org.junit.Assert;
 import org.junit.Test;
 
